@@ -12,7 +12,6 @@ public class IndexController {
 
 
 	private final static Logger logger = LoggerFactory.getLogger(IndexController.class);
-	private static final String awsCredentialsFile = "aws.properties";
 
 	@RequestMapping("/")
 	public String hello(Model model) {

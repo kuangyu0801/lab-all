@@ -11,7 +11,6 @@ public class AddNewItemToDatabaseCartController {
 
 
 	private final static Logger logger = LoggerFactory.getLogger(IndexController.class);
-	private static final String awsCredentialsFile = "aws.properties";
 
 	@RequestMapping("/set")
 	public String hello(@RequestParam(value = "item") String newItem) {
