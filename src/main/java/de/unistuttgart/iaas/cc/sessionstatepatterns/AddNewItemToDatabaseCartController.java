@@ -1,4 +1,4 @@
-package de.unistuttgart.iaas.cc.exfour;
+package de.unistuttgart.iaas.cc.sessionstatepatterns;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

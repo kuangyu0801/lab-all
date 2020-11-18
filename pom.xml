@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.unistuttgart.iaas.cc</groupId>
-    <artifactId>exercise-three</artifactId>
+    <artifactId>exercise-session-state-patterns</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Exercise Three</name>
-    <description>Cloud Computing Execrise 3</description>
+    <name>Exercise: Session State Patterns</name>
+    <description>Cloud Computing Exercise</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

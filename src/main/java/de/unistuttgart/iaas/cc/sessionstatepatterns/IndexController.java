@@ -1,4 +1,4 @@
-package de.unistuttgart.iaas.cc.exfour;
+package de.unistuttgart.iaas.cc.sessionstatepatterns;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
